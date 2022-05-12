@@ -54,7 +54,7 @@
     "bs58": "^4.0.1",
     "cashaddrjs": "^0.2.9",
     "coininfo": "Bitcoin-com/coininfo",
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "randombytes": "^2.0.6",
     "safe-buffer": "^5.1.2",
     "satoshi-bitcoin": "^1.0.4",
